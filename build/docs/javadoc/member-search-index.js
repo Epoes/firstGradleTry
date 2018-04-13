@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Library","l":"Library()"},{"p":"<Unnamed>","c":"Library","l":"someLibraryMethod()"}]
